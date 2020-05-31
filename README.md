@@ -1,0 +1,2 @@
+# Beautiful-Simple_Dashboards_flexdashboard
+Flexdashboard (https://rmarkdown.rstudio.com/flexdashboard/) is an R package that allows creating easy interactive dashboards in R. Its powered by R Markdown, offer support for a wide variety of components &amp; easally specofy row &amp; column flexible layouts . We are going to introduce flexdashboard in this repo and see how easally we can deliver beautiful outputs &amp; insights 
